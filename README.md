@@ -3,6 +3,10 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
 
+[![카힐의 Github 스탯](https://github-readme-stats.vercel.app/api?username=HillTheGitter)](https://github.com/HillTheGitter/github-readme-stats)
+
+프로그래밍뿐만 아니라 영상편집, 작곡 등에도 관심이 많은 한 고등학생입니다 :)
+
 문의
 -------------
 
